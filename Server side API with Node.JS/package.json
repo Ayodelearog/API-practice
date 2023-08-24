@@ -1,0 +1,19 @@
+{
+  "name": "server-side-api-with-node.js",
+  "version": "1.0.0",
+  "description": "Working with server side javascript and building a server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "API",
+    "Selfie",
+    "App"
+  ],
+  "author": "Ayodele Arogundade",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
